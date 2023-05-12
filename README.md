@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shixiao!
 - 👀 I love :fries:, :video_game:, :sleeping:.
-- 🌱 I’m currently learning data science and meditation.
+- 🌱 I’m currently learning data science and Japanese.
 
 <!---
 shixiaoo/shixiaoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
